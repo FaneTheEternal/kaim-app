@@ -3,7 +3,7 @@ var filesToCache = [
   './',
   './index.html',
   './kaim_app.js',
-  './kaim_app.wasm',
+  './kaim_app_bg.wasm',
 ];
 
 /* Start the service worker and cache all of the app's content */
